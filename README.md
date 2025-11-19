@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Parinita Chilukuri 
 
-<!--
-**ParinitaChil/ParinitaChil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Major | Finance Minor @ The University of Texas at Dallas  
+🔬 Undergraduate Research Assistant | Mathnasium Instructor  
+💻 Python | Pandas | NumPy | Matplotlib | Scikit-Learn | SQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+- LinkedIn: [linkedin.com/in/parinita-chilukuri](https://www.linkedin.com/in/parinita-chilukuri-b0ab69267/)  
+- GitHub: [github.com/ParinitaChil](https://github.com/ParinitaChil)  
+
+---
+
+## 📂 Featured Projects
+- **[Retail Sales EDA](https://github.com/ParinitaChil/retail-sales-eda)** – Data cleaning and exploratory analysis  
+- **[Simple ML Classification](https://github.com/ParinitaChil/simple-ml-classification)** – Beginner machine learning workflow with Iris dataset  
+- **[Stock Prices Analysis] (https://github.com/ParinitaChil/stock-prices-analysis)** – Beginner-friendly finance project analyzing S&P 500 companies’ stock data, including data cleaning, visualization, and key insights.
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning Models & Pipelines  
+- Data Visualization & Storytelling  
+- SQL & Databases  
