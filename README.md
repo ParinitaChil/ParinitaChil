@@ -14,9 +14,9 @@
 
 ## 📂 Featured Projects
 - **[Retail Sales EDA](https://github.com/ParinitaChil/retail-sales-eda)** – Data cleaning and exploratory analysis  
-- **[Simple ML Classification](https://github.com/ParinitaChil/simple-ml-classification)** – Beginner machine learning workflow with Iris dataset  
-- **[Stock Prices Analysis] (https://github.com/ParinitaChil/stock-prices-analysis)** – Beginner-friendly finance project analyzing S&P 500 companies’ stock data, including data cleaning, visualization, and key insights.
-
+- **[Simple ML Classification](https://github.com/ParinitaChil/simple-ml-classification)** – Beginner machine learning workflow with Iris dataset
+- **[Stock Prices Analysis](https://github.com/ParinitaChil/stock-prices-analysis)** – Beginner-friendly finance project analyzing S&P 500 companies’ stock data, including data cleaning, visualization, and key insights.
+  
 ---
 
 ## 🌱 Currently Learning
