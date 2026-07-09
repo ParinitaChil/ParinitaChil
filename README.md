@@ -1,6 +1,6 @@
 # Hi, I'm Parinita Chilukuri 
 
-🎓 Data Science Major | Finance Minor @ The University of Texas at Dallas  
+🎓 Computer Science Major | Finance Minor @ The University of Texas at Dallas  
 🔬 Undergraduate Research Assistant | Mathnasium Instructor  
 💻 Python | Pandas | NumPy | Matplotlib | Scikit-Learn | SQL  
 
